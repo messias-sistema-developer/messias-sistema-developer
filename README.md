@@ -63,6 +63,7 @@
 | [App Corporativo](https://github.com/messias-sistema-developer/app-corporativo) | App Android para consultores e gestores acompanharem vendas do dia/mês, metas da loja, batida de ponto, contracheque e promissórias dos funcionários | Android, Java, API REST |
 | [App de Montagem de Móveis](https://github.com/messias-sistema-developer/app-montagem-moveis) | App Android para montadores registrarem fotos do móvel montado como evidência de integridade, com baixa automática da montagem no ERP TOTVS | Android, Java, API REST |
 | [App MotoBoy](https://github.com/messias-sistema-developer/app-motoboy) | App Android para entregas de pequenos volumes, com captura de foto do produto entregue como evidência e baixa automática da entrega no ERP TOTVS | Android, Java, API REST |
+| [Tela de Vendas WEB](https://github.com/messias-sistema-developer/tela-vendas-web) | Tela de vendas web totalmente customizada, integrada via REST ao TOTVS gravando orçamentos nas tabelas SL1010, SL2010 e SL4010. Suporta venda de produtos + serviços (garantia, seguro e outros), com impressão de etiquetas de preço e orçamento | Java Web, JavaScript, jQuery, API REST |
 
 
 
