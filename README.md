@@ -49,21 +49,23 @@
 
 ---
 
-### 📌 Projetos em destaque
 
 <!-- 
   SUBSTITUA os links abaixo pelos links reais dos seus repositórios.
   Mantenha o formato da tabela, só troque texto e URL.
 -->
+### 📌 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [GoVendas](https://github.com/messias-sistema-developer/GoVendas-aplicativo-Android-com-integra-o-ao-Protheus---Totvs) | App Android de vendas externas, com servidor mock para testes locais integrado via rede | Android, Java, Node.js (mock-server) |
-| [Nome do Projeto 2](https://github.com/Analista-Sistema-Developer/projeto2) | Breve descrição do que o projeto resolve | Tecnologias usadas |
-| [Nome do Projeto 3](https://github.com/Analista-Sistema-Developer/projeto3) | Breve descrição do que o projeto resolve | Tecnologias usadas |
-| [Nome do Projeto 4](https://github.com/Analista-Sistema-Developer/projeto4) | Breve descrição do que o projeto resolve | Tecnologias usadas |
+| [App de Entrega - Caminhão](https://github.com/messias-sistema-developer/app-entrega-caminhao) | App Android para entregadores: captura foto do produto entregue como evidência de integridade, coleta assinatura do cliente, emite nota fiscal e finaliza a baixa da entrega direto no ERP TOTVS | Android, Java, API REST |
+| [App Corporativo](https://github.com/messias-sistema-developer/app-corporativo) | App Android para consultores e gestores acompanharem vendas do dia/mês, metas da loja, batida de ponto, contracheque e promissórias dos funcionários | Android, Java, API REST |
+| [App de Montagem de Móveis](https://github.com/messias-sistema-developer/app-montagem-moveis) | App Android para montadores registrarem fotos do móvel montado como evidência de integridade, com baixa automática da montagem no ERP TOTVS | Android, Java, API REST |
+| [App MotoBoy](https://github.com/messias-sistema-developer/app-motoboy) | App Android para entregas de pequenos volumes, com captura de foto do produto entregue como evidência e baixa automática da entrega no ERP TOTVS | Android, Java, API REST |
 
----
+
+
 
 ### 📫 Contato
 
