@@ -58,7 +58,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [GoVendas](https://github.com/Analista-Sistema-Developer/govendas) | App Android de vendas externas, com servidor mock para testes locais integrado via rede | Android, Java, Node.js (mock-server) |
+| [GoVendas](https://github.com/messias-sistema-developer/GoVendas-aplicativo-Android-com-integra-o-ao-Protheus---Totvs) | App Android de vendas externas, com servidor mock para testes locais integrado via rede | Android, Java, Node.js (mock-server) |
 | [Nome do Projeto 2](https://github.com/Analista-Sistema-Developer/projeto2) | Breve descrição do que o projeto resolve | Tecnologias usadas |
 | [Nome do Projeto 3](https://github.com/Analista-Sistema-Developer/projeto3) | Breve descrição do que o projeto resolve | Tecnologias usadas |
 | [Nome do Projeto 4](https://github.com/Analista-Sistema-Developer/projeto4) | Breve descrição do que o projeto resolve | Tecnologias usadas |
